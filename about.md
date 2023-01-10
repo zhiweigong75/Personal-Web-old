@@ -30,7 +30,7 @@ My CV can be downloaded [here](\assets\cv\CV_ZhiweiGong.pdf).
 
 <br>
 
-![Full-width image](/assets/img/photo_Zhiwei){:.lead width="960" height="1280" loading="lazy"}
+![Full-width image](/assets/img/photo_Zhiwei.png){:.lead width="960" height="1280" loading="lazy"}
 
 April 2022
 {:.figcaption}
