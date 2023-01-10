@@ -2,8 +2,7 @@
 layout: about
 title: About
 ---
-
-
+I am currently a M.S.E. student major in Applied Mathematics & Statistics at Johns Hopkins University. I am interested in applying deep learning techniques to multi-modality medical images (MRI, CT, etc.) to extract meaningful information for diagnostic purposes. Current projects include using deep learning methods for automated segmentation of the eustachian tube for applications in the management of eustachian tube dysfunction and building the statistical shape model for the eustachian tube anatomy variation analysis; Generalizability of algorithms for video-based assessment of cataract surgical skills.
 
 ## Research Interests
 - Medical Image Analysis
